@@ -1,3 +1,8 @@
+# 预览
+![页面预览](/preview.png)
+![页面预览手机端](/preview-mobile.png)
+
+
 # Getting Started with Create Blocklet
 
 This project was bootstrapped with [Create Blocklet](https://github.com/blocklet/create-blocklet).
