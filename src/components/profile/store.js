@@ -37,6 +37,7 @@ export const useProfileStore = () => {
         if (!success) {
           message.error(msg);
         } else {
+          message.success('更新成功');
           editing.value = false;
         }
         loading.value = false;
